@@ -4,6 +4,8 @@
 *Ce repository représente le livrable du devoir de l'élément démarche qualité de l’ENSAM meknès filière GI-IADS*
 
 réalisé par:
+<font color='blue'>* Mourad Izem</font> 
+<font color='blue'>* Mehdi Hayani Mechkouri</font> 
 * Mourad Izem
 * Mehdi Hayani Mechkouri
 
