@@ -1,4 +1,4 @@
-# Etude de cas 2
+# Etude de cas 2 | Démarche qualité
 ## Outils et Méthodologies de Résolution des Problèmes
 
 *Ce repository représente le livrable du devoir de l'élément démarche qualité de l’ENSAM meknès filière GI-IADS*
